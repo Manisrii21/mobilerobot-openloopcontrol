@@ -113,6 +113,6 @@ Thus the python program code is developed to move the mobilerobot in the predefi
 
 ```
 Mobile Robotics Laboratory
-Department of Internet of Things(IoT)
+Department of Artificial Intelligence and Data Science/ Mchine Learning
 Saveetha Engineering College
 ```
